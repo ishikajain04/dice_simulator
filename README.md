@@ -10,7 +10,7 @@
 
 #Algorithm
 
->Random face number
+>"Random face number"
 >Looping
 >Check the number
 >Print the face
