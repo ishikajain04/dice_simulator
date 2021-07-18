@@ -6,7 +6,7 @@
 #Dice Overview
 
  """Basic"""
-"" Generating number""
+""" Generating number"""
 
 #Algorithm
 
