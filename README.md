@@ -5,7 +5,7 @@
 
 #Dice Overview
 
-> Basic
+ """Basic"""
 > Generating number
 
 #Algorithm
