@@ -3,10 +3,10 @@
 
 
 
-#Dice Overview
+# Dice Overview
 
- """Basic"""
-""" Generating number"""
+  #Basic
+  #Generating number
 
 #Algorithm
 
